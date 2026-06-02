@@ -3,8 +3,8 @@ from binance.exceptions import BinanceAPIException
 import logging
 
 print("Bot started")
-API_KEY = "hNtv2C6zdwAFgRSoM34rRgNIDO3ex84jgEmjQq7UxdCzVrVDFBYl99NAwcBrw11B"
-API_SECRET = "TA33jtdbSvKV22gdZtS8WX3udScDQG0PJYoAu2mupz8UPcTctdZ18ArofXZhTwsQ"
+API_KEY = ""
+API_SECRET = ""
 
 logging.basicConfig(
     filename="bot.log",
